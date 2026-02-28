@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "DERO",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-02-28T10:01:03.140091Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Abracadabra (feat. Dero Goi / Oomph!)",
+      "artist": "Lord Of The Lost feat. Dero Goi & OOMPH!",
+      "has_synced": true,
+      "path": "select/01_Abracadabra_(feat._Dero_Goi___Oomph!)_Lord_Of_The_Lost_feat._Dero_Goi_&_OOMPH!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Abracadabra (feat. Dero Goi / OOMPH!)",
+      "artist": "Lord Of The Lost, Dero Goi, OOMPH!",
+      "has_synced": true,
+      "path": "select/02_Abracadabra_(feat._Dero_Goi___OOMPH!)_Lord_Of_The_Lost,_Dero_Goi,_OOMPH!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dagegen (feat. Dero Goi)",
+      "artist": "Eisbrecher feat. Dero Goi",
+      "has_synced": true,
+      "path": "select/03_Dagegen_(feat._Dero_Goi)_Eisbrecher_feat._Dero_Goi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Abracadabra (feat. Dero Goi)",
+      "artist": "Lord Of The Lost",
+      "has_synced": true,
+      "path": "select/04_Abracadabra_(feat._Dero_Goi)_Lord_Of_The_Lost.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Abracadabra (feat. Dero Goi / OOMPH!)",
+      "artist": "Lord Of The Lost",
+      "has_synced": true,
+      "path": "select/05_Abracadabra_(feat._Dero_Goi___OOMPH!)_Lord_Of_The_Lost.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dero S Illusion (Southamerican vocal mix)",
+      "artist": "DJ Dero feat. Leee John",
+      "has_synced": false,
+      "path": "select/06_Dero_S_Illusion_(Southamerican_vocal_mix)_DJ_Dero_feat._Leee_John.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dagegen (Feat. Dero Goi)",
+      "artist": "Eisbrecher",
+      "has_synced": true,
+      "path": "select/07_Dagegen_(Feat._Dero_Goi)_Eisbrecher.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Selbstbetrug (feat. Dero Goi)",
+      "artist": "Subway to Sally",
+      "has_synced": false,
+      "path": "select/08_Selbstbetrug_(feat._Dero_Goi)_Subway_to_Sally.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DERO",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/09_DERO_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Abracadabra (feat. Dero Goi)",
+      "artist": "Lord Of The Lost feat. Dero Goi",
+      "has_synced": true,
+      "path": "select/10_Abracadabra_(feat._Dero_Goi)_Lord_Of_The_Lost_feat._Dero_Goi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "State of Independence (DJ Dero vocal mix)",
+      "artist": "Donna Summer",
+      "has_synced": false,
+      "path": "select/11_State_of_Independence_(DJ_Dero_vocal_mix)_Donna_Summer.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "State of Independence (DJ Dero vocal mix)",
+      "artist": "Summer, Donna",
+      "has_synced": false,
+      "path": "select/12_State_of_Independence_(DJ_Dero_vocal_mix)_Summer,_Donna.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "State of Independence (DJ Dero vocal mix)",
+      "artist": "Donna Summer & DJ Dero",
+      "has_synced": false,
+      "path": "select/13_State_of_Independence_(DJ_Dero_vocal_mix)_Donna_Summer_&_DJ_Dero.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dagegen (feat. Dero Goi)",
+      "artist": "Eisbrecher, Dero Goi",
+      "has_synced": true,
+      "path": "select/14_Dagegen_(feat._Dero_Goi)_Eisbrecher,_Dero_Goi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Get Me Down (Mr.Dero Rmx)",
+      "artist": "Klumzy Tung",
+      "has_synced": true,
+      "path": "select/15_Don't_Get_Me_Down_(Mr.Dero_Rmx)_Klumzy_Tung.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ozono (feat. Dero Vibez)",
+      "artist": "Lutz",
+      "has_synced": true,
+      "path": "select/16_Ozono_(feat._Dero_Vibez)_Lutz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DERO",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_DERO_DUSTCELL.txt"
+    }
+  ]
+}
